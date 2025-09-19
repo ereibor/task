@@ -37,8 +37,8 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/post-manager.git
-cd post-manager
+git clone https://github.com/ereibor/task.git
+cd task
 ```
 
 ### 2. Install Dependencies
@@ -181,25 +181,7 @@ npm install -g vercel
 vercel --prod
 ```
 
-### GitHub Pages
 
-```bash
-npm install --save-dev gh-pages
-```
-
-Add to `package.json`:
-
-```json
-{
-  "homepage": "https://yourusername.github.io/post-manager",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-}
-```
-
-## 🎨 Customization
 
 ### Styling
 
@@ -249,7 +231,7 @@ Add to `package.json`:
 
 For questions or feedback, please reach out:
 
-- GitHub: [@yourusername](https://github.com/ereibor)
+- GitHub: [@ereibor](https://github.com/ereibor)
 - Email: etunere@gmail.com
 
 ---
