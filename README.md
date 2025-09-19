@@ -68,7 +68,7 @@ npm install @reduxjs/toolkit react-redux lucide-react
 npm run dev
 ````
 
-The application will open in your browser at `http://localhost:3000`.
+The application will open in your browser at `http://localhost:5173`.
 
 ## 📁 Project Structure
 
