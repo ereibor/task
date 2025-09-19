@@ -1,7 +1,15 @@
+import React from 'react';
 
+import Posts from './pages/Posts';
 
-function App() {
-  return <div className="bg-amber-800">Hello World</div>;
-}
+const App: React.FC = () => {
+  return (
+    
+    <div>
+      <Posts />
+    </div>
+  
+  );
+};
 
 export default App;
