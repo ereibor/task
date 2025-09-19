@@ -65,7 +65,7 @@ npm install @reduxjs/toolkit react-redux lucide-react
 ### 5. Start the Development Server
 
 ```bash
-npm start
+npm run dev
 ````
 
 The application will open in your browser at `http://localhost:3000`.
