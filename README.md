@@ -91,7 +91,7 @@ post-manager/
 │   ├── pages/               # Page components
 │   │   └── Posts.tsx        # Main posts page
 │   ├── App.tsx              # Root component
-│   ├── index.tsx            # Entry point
+│   ├── main.tsx            # Entry point
 │   └── index.css            # Global styles
 ├── package.json
 ├── tsconfig.json
